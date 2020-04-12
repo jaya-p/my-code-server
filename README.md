@@ -1,3 +1,7 @@
+# INFO
+
+Forked from: https://github.com/kyorohiro/my-code-server
+
 Build my development environment with vscode on docker by code-server
 
 
